@@ -14,7 +14,21 @@ Sjekk at du faktisk kan logge inn på brukeren gjennom Postman. Hvis brukeren di
 
 ## Oppgave 2
 
-> Query Strings, Promises, Callback
+> Query Strings
+
+Create two html pages.
+
+HTML 1:
+
+1. Add a form with an input and subit that you can write text in.
+2. Extract the text, so that you have access to it in JavaScript.
+3. After the input is submitted, add an anchortag with a destination of "HTML 2" and the query string pair: q = inputFromUser.
+
+HTML 2:
+
+1. Handle the query string so that you can change h1 on the site to the inputFromUser-value.
+
+## Oppgave 3
 
 <!-- Destructuring
 Local Storage
