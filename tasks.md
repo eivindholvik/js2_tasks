@@ -4,9 +4,11 @@
 
 ## Oppgave 1
 
-> Desctructuring, local storage, promises, jwt, IIFE
+> Desctructuring, local storage, promises, jwt, IIFE, modules
 
 Bruk IIFE til å logge inn på din bruker med en gang scriptet kjører. Bruk destructuring til å lagre accessToken og name til localStorage.
+
+Bruk gjerne moduler for å få vekk parametere fra script.mjs.
 
 Sjekk at du faktisk kan logge inn på brukeren gjennom Postman. Hvis brukeren din er slettet, kan du opprette en ny gjennom Postman.
 
